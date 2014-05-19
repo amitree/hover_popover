@@ -12,6 +12,11 @@ Add to your Gemfile:
 gem 'hover_popover'
 ```
 
+In application.js
+```ruby
+//= require hover_popover
+```
+
 Usage
 -----
 
